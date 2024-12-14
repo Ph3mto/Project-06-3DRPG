@@ -1,6 +1,10 @@
-# Exercise-06C-Dialog
+# Project-06
 
-# References
+# Features added
+
+Models made in Blender. 
+ - House and Sword
+
 
 Textures from: https://freepbr.com/
 Models and animations from: Mixamo.com
