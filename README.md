@@ -3,7 +3,9 @@
 # Features added
 
 Models made in Blender. 
- - House and Sword
+ - House 
+ - Sword
+ - Rocks
 
 
 Textures from: https://freepbr.com/
